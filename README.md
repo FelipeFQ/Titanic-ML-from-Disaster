@@ -20,8 +20,10 @@ This repository demonstrates **data exploration, feature engineering, and machin
 │
 ├── outputs/                   #  Saved models, submission files
 │
-├── titanic_environment.yml    # Conda environment for reproducibility
-└── README.md                  # Project documentation
+├── .gitignore                # Git ignore rules
+├── requirements.txt          # Python package dependencies
+├── titanic_environment.yml   # Conda environment for reproducibility
+└── README.md                 # Project documentation
 ```
 
 ---

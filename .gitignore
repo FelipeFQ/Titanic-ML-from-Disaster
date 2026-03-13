@@ -30,3 +30,6 @@ outputs/*.pkl
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Interview prep (local study materials)
+interview_prep/
